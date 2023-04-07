@@ -17,3 +17,6 @@ rapid change/ rapid growth/ rapid expansion/ rapid development
 Example: 
 The patient made a rapid recovery
 
+### subsidiary /səbˈsɪdieri/
+Definition: own or control by other company
+Example: Andpad VN is subsidiary of Andpad Janpan
