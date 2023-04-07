@@ -40,6 +40,7 @@ Example: The new trade agreement should facilitate more rapid economic growth
 ### excel /ɪkˈsel/ (verb)
 
 excel in/at something She has always excelled in foreign languages.
+
 excel at doing something -> The team excels at turning defense into attack.
 
 ### adjacent /əˈdʒeɪsnt/ (adj)
