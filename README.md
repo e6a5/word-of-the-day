@@ -18,7 +18,13 @@ Example:
 The patient made a rapid recovery
 
 ### subsidiary /səbˈsɪdieri/
+
 Definition: own or control by other company
+
 Example: Andpad VN is subsidiary of Andpad Janpan
 
+### facilitate something /fəˈsɪlɪteɪt/
 
+Definition: make an action or a process possible or easier
+
+Example: The new trade agreement should facilitate more rapid economic growth
