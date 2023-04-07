@@ -1,9 +1,17 @@
 # five-words-a-day
 As a non-native English speaker, the rich vocabulary will help me describe my opinion in any situation. The purpose of repository is used to store the new words which I see or listen to in a day.
 
+## Word Index
+
+- [rapid](#rapid-ˈræpɪd-adj)
+- [subsidiary](#subsidiary-səbˈsɪdieri-adj)
+- [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)
+- [excel](#excel-ɪkˈsel-verb)
+- [adjacent](#adjacent-əˈdʒeɪsnt-adj)
+
 ## Vocabulary 
 
-### Rapid /ˈræpɪd/ (adj)
+### rapid /ˈræpɪd/ (adj)
 
 Definition: Happening quickly or in short period of time
 
