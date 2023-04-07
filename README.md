@@ -29,12 +29,12 @@ Definition: make an action or a process possible or easier
 
 Example: The new trade agreement should facilitate more rapid economic growth
 
-### excel /ɪkˈsel/
+### excel /ɪkˈsel/ (verb)
 
 excel in/at something She has always excelled in foreign languages.
 excel at doing something -> The team excels at turning defense into attack.
 
-### adjacent /əˈdʒeɪsnt/
+### adjacent /əˈdʒeɪsnt/ (adj)
 
 Definition: next to something
 
