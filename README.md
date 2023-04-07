@@ -3,7 +3,7 @@ As a non-native English speaker, the rich vocabulary will help me describe my op
 
 ## Vocabulary 
 
-### Rapid /ˈræpɪd/
+### Rapid /ˈræpɪd/ (adj)
 
 Definition: Happening quickly or in short period of time
 
@@ -17,14 +17,25 @@ rapid change/ rapid growth/ rapid expansion/ rapid development
 Example: 
 The patient made a rapid recovery
 
-### subsidiary /səbˈsɪdieri/
+### subsidiary /səbˈsɪdieri/ (adj)
 
 Definition: own or control by other company
 
 Example: Andpad VN is subsidiary of Andpad Janpan
 
-### facilitate something /fəˈsɪlɪteɪt/
+### facilitate something /fəˈsɪlɪteɪt/ (verb)
 
 Definition: make an action or a process possible or easier
 
 Example: The new trade agreement should facilitate more rapid economic growth
+
+### excel /ɪkˈsel/
+
+excel in/at something She has always excelled in foreign languages.
+excel at doing something -> The team excels at turning defense into attack.
+
+### adjacent /əˈdʒeɪsnt/
+
+Definition: next to something
+
+Example: The sub array must only contain adjacent numbers
