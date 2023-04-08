@@ -48,3 +48,32 @@ excel at doing something -> The team excels at turning defense into attack.
 Definition: next to something
 
 Example: The sub array must only contain adjacent numbers
+
+### amenity /əˈmenəti/ (noun)
+
+Example: Despite small, my hometwon has excellent amenities.
+
+Definition: a feature or service that makes a place pleasant, comfortable or easy to live in
+
+### heritage /ˈherɪtɪdʒ/ (noun)
+
+Example: I want to explore more about heritage
+
+Definition: the history, traditions, buildings and objects that a country or society has had for many years and that are considered an important part of its character
+
+### commute /kəˈmjuːt/ (verb)
+
+Example: I work 10 hours a day, I commute 2 hours a day.
+
+Definition: to travel regularly by bus, train, car, etc. between your place of work and your home
+
+### unrealistic /ˌʌnriːəˈlɪstɪk/ (adj)
+
+Example: unrealistic expectations
+         If you are not working hard, it would be unrealistic goals.
+ 
+ ### arrogant /ˈærəɡənt/ (adj)
+ 
+ Exmaple: He was a rude, arrogant young man. 
+ 
+ Definition: behaving in a proud, unpleasant way, showing little thought for other people
