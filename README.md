@@ -75,3 +75,42 @@ Example: unrealistic expectations
  Exmaple: He was a rude, arrogant young man. 
  
  Definition: behaving in a proud, unpleasant way, showing little thought for other people
+ 
+ ### encounter /ɪnˈkaʊntər/ (verb)
+ 
+  
+ Example: encounter something -> We encountered a number of difficulties in the first week.
+ 
+ Synonym: meet, run into, come across
+ 
+ Definition: encounter something to experience something, especially something unpleasant or difficult, while you are trying to do something else.
+ 
+ ### accomplish /əˈkɑːmplɪʃ/ (verb)
+ 
+ Synonym: achieve 
+ 
+ Example: I don't feel I've accomplished very much today.
+ 
+ Definition: accomplish something to succeed in doing or completing something
+ 
+ ### discourage /dɪsˈkɜːrɪdʒ/ (verb)
+ 
+ Opposite: encourage
+ 
+ Example: His parents tried to discourage him from being an actor.
+ 
+ Definition: to try to prevent something or to prevent somebody from doing something, especially by making it difficult to do or by showing that you do  not approve of it.
+ 
+ ### perspective /pərˈspektɪv/ (noun)
+ 
+ Synonym: viewpoint
+ 
+ Example: Try to see the issue from a different perspective.
+ 
+ Definition: a particular attitude towards something; a way of thinking about something
+ 
+ ### sword /sɔːrd/ (noun)
+ 
+ Definition: weapon with a long metal blade (= sharp cutting part) and a handle
+ 
+ Idioms: be a double-edged/two-edged sword/weapon -> to be something that has both advantages and disadvantages
