@@ -114,3 +114,39 @@ Example: unrealistic expectations
  Definition: weapon with a long metal blade (= sharp cutting part) and a handle
  
  Idioms: be a double-edged/two-edged sword/weapon -> to be something that has both advantages and disadvantages
+ 
+ ### cognitive /ˈkɑːɡnətɪv/ (adj) 
+ 
+ Example: cognitive psychology 
+ 
+ This is both a cognitive and an emotional process.
+ 
+ Definition: connected with mental processes of understanding
+ 
+ ### advocate /ˈædvəkət/ (verb)
+ 
+ Synonym: advise, recommend, urge
+ 
+ Example: Many experts advocate rewarding your child for good behaviour.
+ 
+ Definition: to support something publicly
+
+ ### cue /kjuː/ (noun)
+ 
+ Example: I think that's my cue to explain why I'm here.
+ 
+ Definition: an action or event that is a signal for somebody to do something.
+ 
+ ### crave /kreɪv/ (verb)
+ 
+ Synonym: long for
+ 
+ Example: I'm craving to learn more words.
+ 
+ Definition: to have a very strong desire for something.
+ 
+ ### belief /bɪˈliːf/ (noun)
+ 
+ Definition: a strong feeling that something/somebody exists or is true; confidence that something/somebody is good or right
+ 
+ Example: I admire his passionate belief in what he is doing.
