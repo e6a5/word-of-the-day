@@ -151,3 +151,38 @@ Example: unrealistic expectations
  Definition: a strong feeling that something/somebody exists or is true; confidence that something/somebody is good or right
  
  Example: I admire his passionate belief in what he is doing.
+ 
+ ### fulfill /fʊlˈfɪl/ (verb)
+ 
+ Example: Fulfill your dreams with a new caarer.
+ 
+ Definition: fulfil something to do or achieve what was hoped for or expected.
+ 
+ ### dugout /ˈdʌɡaʊt/ (noun)
+ 
+ Definition: a shelter by the side of the football where a team's manager etc, can sit and watch the games.
+ 
+ ### acquire /əˈkwaɪər/ (verb)
+ 
+ Idiom: an acquire taste -> a thing that you don't like much at first but gradually learn to like. 
+ 
+ Example: I'm trying to acquire a good knowledge of English.
+ 
+ Definition: acquire something to gain something by your own efforts, ability or behaviour
+ 
+ ### reveal /rɪˈviːl/ (verb)
+ 
+ Synonym: disclose 
+ 
+ Example: The doctor did not reveal the true for him.
+ 
+ Definition: to make something known to somebody.
+ 
+ ### compensation /ˌkɑːmpenˈseɪʃn/ (noun) 
+ 
+ Synonym: Salary
+ 
+ Example: Send your CV and current compensation to Executive Search Consultant.
+ 
+ Definition: money that an employee receives for doing their job
+ 
