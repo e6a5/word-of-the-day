@@ -205,13 +205,13 @@ Example: unrealistic expectations
  
  ### chase /tʃeɪs/ (verb)
  
- Example: My dog likes chasing rabbits -> run/drive after
+ Example: My dog likes chasing rabbits. run/drive after
  
-         Too many people are chasing too few jobs nowadays -> money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
+         Too many people are chasing too few jobs nowadays. money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
          
-         I've been chasing around town all morning looking for a present for Sharon. -> + adv./prep. (informal) to rush or hurry somewhere
+         I've been chasing around town all morning looking for a present for Sharon. + adv./prep. (informal) to rush or hurry somewhere
  ### incorporate /ɪnˈkɔːrpəreɪt/ (verb)
  
- Example: We have incorporated all the latest safety features into the design. -> to include something so that it forms a part of something
+ Example: We have incorporated all the latest safety features into the design. to include something so that it forms a part of something
          
-         The company was incorporated in 2008. ->  to create a legally recognized company
+         The company was incorporated in 2008.  to create a legally recognized company
