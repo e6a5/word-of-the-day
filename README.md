@@ -186,3 +186,32 @@ Example: unrealistic expectations
  
  Definition: money that an employee receives for doing their job
  
+ ### appeal /əˈpiːl/ (verb)
+ 
+ Example: His movies appeal to a broad audience. ->  to attract or interest somebody
+         I am appealing (= asking for money) on behalf of the famine victims -> to make a deeply felt request, especially for something that is needed immediately
+  
+ ### crap /kræp/ (adj)
+ 
+ Example: The team played crap yesterday.
+ 
+ Definition: very badly
+ 
+ ### premise /ˈpremɪs/ (noun)
+ 
+ Example: His reasoning is based on the premise that all people are equally capable of good and evil.
+ 
+ Definition: a statement or an idea that forms the basis for a reasonable line of argument
+ 
+ ### chase /tʃeɪs/ (verb)
+ 
+ Example: My dog likes chasing rabbits -> run/drive after
+ 
+         Too many people are chasing too few jobs nowadays -> money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
+         
+         I've been chasing around town all morning looking for a present for Sharon. -> + adv./prep. (informal) to rush or hurry somewhere
+ ### incorporate /ɪnˈkɔːrpəreɪt/ (verb)
+ 
+ Example: We have incorporated all the latest safety features into the design. -> to include something so that it forms a part of something
+         
+         The company was incorporated in 2008. ->  to create a legally recognized company
