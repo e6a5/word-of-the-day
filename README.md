@@ -6,6 +6,7 @@ As a non-native English speaker, the rich vocabulary will help me describe my op
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |[rapid](#rapid-ˈræpɪd-adj)| [subsidiary](#subsidiary-səbˈsɪdieri-adj)| [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)|[excel](#excel-ɪkˈsel-verb)|[adjacent](#adjacent-əˈdʒeɪsnt-adj)|[amenity](#amenity-əˈmenəti-noun)|[heritage](#heritage-ˈherɪtɪdʒ-noun)|[commute](#commute-kəˈmjuːt-verb)|[unrealistic](#unrealistic-ˌʌnriːəˈlɪstɪk-adj)|[arrogant](#arrogant-ˈærəɡənt-adj)|[encounter](#encounter-ɪnˈkaʊntər-verb)|[accomplish](#accomplish-əˈkɑːmplɪʃ-verb)|[discourage](#discourage-dɪsˈkɜːrɪdʒ-verb)|[perspective](#perspective-pərˈspektɪv-noun)|[sword](#sword-sɔːrd-noun)|
 |[cognitive](#cognitive-ˈkɑːɡnətɪv-adj)|[advocate](#advocate-ˈædvəkət-verb)|[cue](#cue-kjuː-noun)|[crave](#crave-kreɪv-verb)|[belief](#belief-bɪˈliːf-noun)|[fulfill](#fulfill-fʊlˈfɪl-verb)|[dugout](#dugout-ˈdʌɡaʊt-noun)|[acquire](#acquire-əˈkwaɪər-verb)|[reveal](#reveal-rɪˈviːl-verb)|[compensation ](#compensation-ˌkɑːmpenˈseɪʃn-noun)|[appeal](#appeal-əˈpiːl-verb)|[crap](#crap-kræp-adj)|[premise](#premise-ˈpremɪs-noun)|[chase](#chase-tʃeɪs-verb)|[incorporat](#incorporate-ɪnˈkɔːrpəreɪt-verb)|
+|[crucial]()|[settle]()|[]()|[]()|[]()|||||||||||
 
 
 ## Vocabulary 
@@ -210,8 +211,41 @@ Example: unrealistic expectations
          Too many people are chasing too few jobs nowadays. money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
          
          I've been chasing around town all morning looking for a present for Sharon. + adv./prep. (informal) to rush or hurry somewhere
+         
  ### incorporate /ɪnˈkɔːrpəreɪt/ (verb)
  
  Example: We have incorporated all the latest safety features into the design. to include something so that it forms a part of something
          
          The company was incorporated in 2008.  to create a legally recognized company
+  
+ ### crucial /ˈkruːʃl/ (adj)
+ 
+ Synonym: Essential 
+ 
+ Example: The next few weeks are going to be crucial
+ 
+ Definition: extremely important, because it will affect other things
+ 
+ ### settle /ˈsetl/ (verb)
+ 
+ Example: I want this thing setteled -> end argument
+ 
+ I settled her on the sofa and put a blanket over her -> into comfortable position/zone.
+ 
+ ### reconcile /ˈrekənsaɪl/ (verb)
+ 
+ Example: It was hard to reconcile his career ambitions with the needs of his children
+ 
+ Definition: reconcile something (with something) to find an acceptable way of dealing with two or more ideas, needs, etc. that seem to be opposed to each other
+ 
+ ### stake /steɪk/ (noun)
+ 
+ Example: a 20 per cent stake in the business
+ 
+ Definition: money that somebody invests in the company. 
+ 
+ ### cut-throat /ˈkʌt θrəʊt/ (adj)
+ 
+ Example: the cut-throat world of politics
+ 
+ Definition: (of an activity) in which people compete with each other in aggressive and unfair ways
