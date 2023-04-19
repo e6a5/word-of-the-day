@@ -6,7 +6,7 @@ As a non-native English speaker, the rich vocabulary will help me describe my op
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |[rapid](#rapid-ˈræpɪd-adj)| [subsidiary](#subsidiary-səbˈsɪdieri-adj)| [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)|[excel](#excel-ɪkˈsel-verb)|[adjacent](#adjacent-əˈdʒeɪsnt-adj)|[amenity](#amenity-əˈmenəti-noun)|[heritage](#heritage-ˈherɪtɪdʒ-noun)|[commute](#commute-kəˈmjuːt-verb)|[unrealistic](#unrealistic-ˌʌnriːəˈlɪstɪk-adj)|[arrogant](#arrogant-ˈærəɡənt-adj)|[encounter](#encounter-ɪnˈkaʊntər-verb)|[accomplish](#accomplish-əˈkɑːmplɪʃ-verb)|[discourage](#discourage-dɪsˈkɜːrɪdʒ-verb)|[perspective](#perspective-pərˈspektɪv-noun)|[sword](#sword-sɔːrd-noun)|
 |[cognitive](#cognitive-ˈkɑːɡnətɪv-adj)|[advocate](#advocate-ˈædvəkət-verb)|[cue](#cue-kjuː-noun)|[crave](#crave-kreɪv-verb)|[belief](#belief-bɪˈliːf-noun)|[fulfill](#fulfill-fʊlˈfɪl-verb)|[dugout](#dugout-ˈdʌɡaʊt-noun)|[acquire](#acquire-əˈkwaɪər-verb)|[reveal](#reveal-rɪˈviːl-verb)|[compensation ](#compensation-ˌkɑːmpenˈseɪʃn-noun)|[appeal](#appeal-əˈpiːl-verb)|[crap](#crap-kræp-adj)|[premise](#premise-ˈpremɪs-noun)|[chase](#chase-tʃeɪs-verb)|[incorporat](#incorporate-ɪnˈkɔːrpəreɪt-verb)|
-|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|||||||||||
+|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble]()|[phenomenon]()|[]()|[]()|[]()||||||
 
 
 ## Vocabulary 
@@ -249,3 +249,35 @@ Example: unrealistic expectations
  Example: the cut-throat world of politics
  
  Definition: (of an activity) in which people compete with each other in aggressive and unfair ways
+ 
+ ### stumble /ˈstʌmbl/ (verb)
+ 
+ Example:  I stumbled over a rock. ->  to hit your foot against something while you are walking or running and almost fall.
+ 
+ In her nervousness she stumbled over her words. ->  to make a mistake or mistakes and stop while you are speaking, reading to somebody or playing music
+ 
+ ### phenomenon /fəˈnɑːmɪnən/ (noun) 
+ 
+ Example: the global phenomenon of climate change -> a fact or an event in nature or society, especially one that is not fully understood
+ 
+ This young pianist is a phenomenon. -> a person or thing that is very successful or impressive.
+ 
+ ### assimilate /əˈsɪməleɪt/ (noun)
+ 
+ Example: The committee will need time to assimilate this report. -> assimilate something to fully understand an idea or some information so that you are able to use it yourself
+ 
+ These changes were gradually assimilated into everyday life. -> to make an idea, a person’s attitude, etc. fit into something or be acceptable.
+ 
+ ### hustle /ˈhʌsl/ (verb)
+ 
+ Example: They survive by hustling on the streets.
+ 
+ Definition: hustle (something) to sell or obtain something, often illegally
+ 
+ ### distinguish /dɪˈstɪŋɡwɪʃ/ (verb)
+ 
+ Synonym: differentiate 
+ 
+ Example At what age are children able to distinguish between right and wrong? 
+ 
+ Definition: to recognize the difference between two people or things
