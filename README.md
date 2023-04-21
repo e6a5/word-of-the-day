@@ -6,7 +6,7 @@ Learn a new word everyday
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |[rapid](#rapid-ˈræpɪd-adj)| [subsidiary](#subsidiary-səbˈsɪdieri-adj)| [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)|[excel](#excel-ɪkˈsel-verb)|[adjacent](#adjacent-əˈdʒeɪsnt-adj)|[amenity](#amenity-əˈmenəti-noun)|[heritage](#heritage-ˈherɪtɪdʒ-noun)|[commute](#commute-kəˈmjuːt-verb)|[unrealistic](#unrealistic-ˌʌnriːəˈlɪstɪk-adj)|[arrogant](#arrogant-ˈærəɡənt-adj)|[encounter](#encounter-ɪnˈkaʊntər-verb)|[accomplish](#accomplish-əˈkɑːmplɪʃ-verb)|[discourage](#discourage-dɪsˈkɜːrɪdʒ-verb)|[perspective](#perspective-pərˈspektɪv-noun)|[sword](#sword-sɔːrd-noun)|
 |[cognitive](#cognitive-ˈkɑːɡnətɪv-adj)|[advocate](#advocate-ˈædvəkət-verb)|[cue](#cue-kjuː-noun)|[crave](#crave-kreɪv-verb)|[belief](#belief-bɪˈliːf-noun)|[fulfill](#fulfill-fʊlˈfɪl-verb)|[dugout](#dugout-ˈdʌɡaʊt-noun)|[acquire](#acquire-əˈkwaɪər-verb)|[reveal](#reveal-rɪˈviːl-verb)|[compensation ](#compensation-ˌkɑːmpenˈseɪʃn-noun)|[appeal](#appeal-əˈpiːl-verb)|[crap](#crap-kræp-adj)|[premise](#premise-ˈpremɪs-noun)|[chase](#chase-tʃeɪs-verb)|[incorporat](#incorporate-ɪnˈkɔːrpəreɪt-verb)|
-|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)|[evict]()|||||
+|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)|[evict](#evict-ɪˈvɪkt-verb)|||||
 
 
 ## Vocabulary 
@@ -208,15 +208,15 @@ Example: unrealistic expectations
  
  Example: My dog likes chasing rabbits. run/drive after
  
-         Too many people are chasing too few jobs nowadays. money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
+ Too many people are chasing too few jobs nowadays. money/work/success (chase something to try to obtain or achieve something, for example money, work or success)
          
-         I've been chasing around town all morning looking for a present for Sharon. + adv./prep. (informal) to rush or hurry somewhere
+ I've been chasing around town all morning looking for a present for Sharon. + adv./prep. (informal) to rush or hurry somewhere
          
  ### incorporate /ɪnˈkɔːrpəreɪt/ (verb)
  
  Example: We have incorporated all the latest safety features into the design. to include something so that it forms a part of something
          
-         The company was incorporated in 2008.  to create a legally recognized company
+ The company was incorporated in 2008.  to create a legally recognized company
   
  ### crucial /ˈkruːʃl/ (adj)
  
