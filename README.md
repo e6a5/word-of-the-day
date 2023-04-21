@@ -6,7 +6,7 @@ Learn a new word everyday
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |[rapid](#rapid-ˈræpɪd-adj)| [subsidiary](#subsidiary-səbˈsɪdieri-adj)| [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)|[excel](#excel-ɪkˈsel-verb)|[adjacent](#adjacent-əˈdʒeɪsnt-adj)|[amenity](#amenity-əˈmenəti-noun)|[heritage](#heritage-ˈherɪtɪdʒ-noun)|[commute](#commute-kəˈmjuːt-verb)|[unrealistic](#unrealistic-ˌʌnriːəˈlɪstɪk-adj)|[arrogant](#arrogant-ˈærəɡənt-adj)|[encounter](#encounter-ɪnˈkaʊntər-verb)|[accomplish](#accomplish-əˈkɑːmplɪʃ-verb)|[discourage](#discourage-dɪsˈkɜːrɪdʒ-verb)|[perspective](#perspective-pərˈspektɪv-noun)|[sword](#sword-sɔːrd-noun)|
 |[cognitive](#cognitive-ˈkɑːɡnətɪv-adj)|[advocate](#advocate-ˈædvəkət-verb)|[cue](#cue-kjuː-noun)|[crave](#crave-kreɪv-verb)|[belief](#belief-bɪˈliːf-noun)|[fulfill](#fulfill-fʊlˈfɪl-verb)|[dugout](#dugout-ˈdʌɡaʊt-noun)|[acquire](#acquire-əˈkwaɪər-verb)|[reveal](#reveal-rɪˈviːl-verb)|[compensation ](#compensation-ˌkɑːmpenˈseɪʃn-noun)|[appeal](#appeal-əˈpiːl-verb)|[crap](#crap-kræp-adj)|[premise](#premise-ˈpremɪs-noun)|[chase](#chase-tʃeɪs-verb)|[incorporat](#incorporate-ɪnˈkɔːrpəreɪt-verb)|
-|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)||||||
+|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)|[evict]()|||||
 
 
 ## Vocabulary 
@@ -281,3 +281,11 @@ Example: unrealistic expectations
  Example At what age are children able to distinguish between right and wrong? 
  
  Definition: to recognize the difference between two people or things
+ 
+ ### evict /ɪˈvɪkt/ (verb)
+ 
+ Example: A number of tenants have been evicted for not paying the rent.
+ 
+ Definition: evict somebody (from something) to force somebody to leave a house or land, especially when you have the legal right to do so.
+ 
+ 
