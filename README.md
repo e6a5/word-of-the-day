@@ -6,7 +6,8 @@ Learn a new word everyday
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 |[rapid](#rapid-ˈræpɪd-adj)| [subsidiary](#subsidiary-səbˈsɪdieri-adj)| [facilitate](#facilitate-something-fəˈsɪlɪteɪt-verb)|[excel](#excel-ɪkˈsel-verb)|[adjacent](#adjacent-əˈdʒeɪsnt-adj)|[amenity](#amenity-əˈmenəti-noun)|[heritage](#heritage-ˈherɪtɪdʒ-noun)|[commute](#commute-kəˈmjuːt-verb)|[unrealistic](#unrealistic-ˌʌnriːəˈlɪstɪk-adj)|[arrogant](#arrogant-ˈærəɡənt-adj)|[encounter](#encounter-ɪnˈkaʊntər-verb)|[accomplish](#accomplish-əˈkɑːmplɪʃ-verb)|[discourage](#discourage-dɪsˈkɜːrɪdʒ-verb)|[perspective](#perspective-pərˈspektɪv-noun)|[sword](#sword-sɔːrd-noun)|
 |[cognitive](#cognitive-ˈkɑːɡnətɪv-adj)|[advocate](#advocate-ˈædvəkət-verb)|[cue](#cue-kjuː-noun)|[crave](#crave-kreɪv-verb)|[belief](#belief-bɪˈliːf-noun)|[fulfill](#fulfill-fʊlˈfɪl-verb)|[dugout](#dugout-ˈdʌɡaʊt-noun)|[acquire](#acquire-əˈkwaɪər-verb)|[reveal](#reveal-rɪˈviːl-verb)|[compensation ](#compensation-ˌkɑːmpenˈseɪʃn-noun)|[appeal](#appeal-əˈpiːl-verb)|[crap](#crap-kræp-adj)|[premise](#premise-ˈpremɪs-noun)|[chase](#chase-tʃeɪs-verb)|[incorporat](#incorporate-ɪnˈkɔːrpəreɪt-verb)|
-|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)|[evict](#evict-ɪˈvɪkt-verb)|[crisis](#crisis-ˈkraɪsɪs-noun)|[intense](#intense-ɪnˈtens-adj)|||
+|[crucial](#crucial-ˈkruːʃl-adj)|[settle](#settle-ˈsetl-verb)|[reconcile](#reconcile-ˈrekənsaɪl-verb)|[stake](#stake-steɪk-noun)|[cut-throat](#cut-throat-ˈkʌt-θrəʊt-adj)|[stumble](#stumble-ˈstʌmbl-verb)|[phenomenon](#phenomenon-fəˈnɑːmɪnən-noun)|[assimilate](#assimilate-əˈsɪməleɪt-noun)|[hustle](#hustle-ˈhʌsl-verb)|[distinguish](#distinguish-dɪˈstɪŋɡwɪʃ-verb)|[evict](#evict-ɪˈvɪkt-verb)|[crisis](#crisis-ˈkraɪsɪs-noun)|[intense](#intense-ɪnˈtens-adj)|[provision]()||
+||||||||||||||||
 
 
 ## Vocabulary 
@@ -305,4 +306,14 @@ Example: unrealistic expectations
  There is intense competition for the top jobs -> serious and often involving a lot of action in a short period of time
  
  He's very intense about everything -> having or showing very strong feelings, opinions or thoughts about somebody/something
+ 
+ ### provision /prəˈvɪʒn/ (noun)
+ 
+ There is no provision for anyone to sit down here -> the act of supplying somebody with something that they need or want; something that is supplied
+ 
+ You should make provision for things going wrong -> provision for somebody/something preparations that you make for something that might or will happen in the future
+ 
+ We have enough provisions to last us two weeks -> plural] supplies of food and drink, especially for a long journey
+ 
+ The same provisions apply to foreign-owned companies ->  a condition or an arrangement in a legal document
  
