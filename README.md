@@ -329,3 +329,9 @@ Example: unrealistic expectations
  
  My humble apologies. I did not understand.
  
+ ### concentrate /ˈkɑːnsntreɪt/ (verb)
+ 
+ I struggled to concentrate on my job because I was worried about my future. -> concentrate on something/ concentrate on doing something -> to give all your attention to something and not think about anything else
+ 
+ Never concentrate the heat in one place for too long.  -> concentrate something + adv./prep. to bring something together in one place
+ 
