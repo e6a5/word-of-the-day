@@ -335,3 +335,8 @@ Example: unrealistic expectations
  
  Never concentrate the heat in one place for too long.  -> concentrate something + adv./prep. to bring something together in one place
  
+### spectrum /ˈspektrəm/ (noun) 
+
+Definition: a range of sound waves or several other types of wave
+
+Example: the electromagnetic/radio/sound spectrum
