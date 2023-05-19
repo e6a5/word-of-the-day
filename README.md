@@ -340,3 +340,11 @@ Example: unrealistic expectations
 Definition: a range of sound waves or several other types of wave
 
 Example: the electromagnetic/radio/sound spectrum
+
+### cumbersome /ˈkʌmbərsəm/ (adj)
+
+cumbersome machinery -> large and heavy, difficult to carry
+
+cumbersome legal procedures -> slow and complicated 
+
+The organization changed its cumbersome title to something easier to remember -> long and complicated 
