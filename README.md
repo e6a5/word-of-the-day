@@ -348,3 +348,7 @@ cumbersome machinery -> large and heavy, difficult to carry
 cumbersome legal procedures -> slow and complicated 
 
 The organization changed its cumbersome title to something easier to remember -> long and complicated 
+
+### hierarchy /ˈhaɪərɑːrki/ (noun) 
+
+She's quite high up in the management hierarchy. -> a system, especially in a society or an organization, in which people are organized into different levels of importance from highest to lowest
