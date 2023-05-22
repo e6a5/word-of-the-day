@@ -352,3 +352,11 @@ The organization changed its cumbersome title to something easier to remember ->
 ### hierarchy /ˈhaɪərɑːrki/ (noun) 
 
 She's quite high up in the management hierarchy. -> a system, especially in a society or an organization, in which people are organized into different levels of importance from highest to lowest
+
+### vault /vɔːlt/ (verb)
+
+Definition: to jump over an object in a single movement, using your hands or a pole to push you
+
+Example: vault over something She vaulted over the gate and ran up the path.
+
+vault something to vault a fence
