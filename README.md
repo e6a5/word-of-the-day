@@ -361,7 +361,7 @@ Example: vault over something She vaulted over the gate and ran up the path.
 
 vault something to vault a fence
 
-### insists /ɪnˈsɪst/ (verb)
+### insist /ɪnˈsɪst/ (verb)
 
 Example
 
