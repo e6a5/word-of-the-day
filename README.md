@@ -382,3 +382,8 @@ She was looking forward to the meeting enormously.
 Definition: enough for a particular purpose; as much as you need
 
 Allow sufficient time to get there.
+
+### amateur /ˈæmətʃər/ (adj)
+
+I'm an amateur photographer -> doing something for pleasure or interest, not as a job
+
