@@ -387,3 +387,12 @@ Allow sufficient time to get there.
 
 I'm an amateur photographer -> doing something for pleasure or interest, not as a job
 
+### robust /rəʊˈbʌst/ (adj)
+
+Definition: strong and healthy
+
+Example: She was almost 90, but still very robust.
+
+Definition: strong and determined; showing that you are sure about what you are doing or saying
+
+Example: The company is taking a more robust approach to management.
