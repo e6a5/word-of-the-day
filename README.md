@@ -403,3 +403,13 @@ Example: The company is taking a more robust approach to management.
 Definition: to stop; to make somebody/something stop
 
 Example: The trial was halted after the first week.
+
+### hassle /ˈhæsl/ (noun)
+
+Definition: a situation that is annoying because it involves doing something difficult or complicated that needs a lot of effort
+
+Example: It’s a hassle having to travel with so many bags.
+
+Definition: a situation in which people disagree, argue or annoy you
+
+Example: Try not to get into a hassle with this guy.
