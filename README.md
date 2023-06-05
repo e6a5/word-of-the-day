@@ -413,3 +413,9 @@ Example: It’s a hassle having to travel with so many bags.
 Definition: a situation in which people disagree, argue or annoy you
 
 Example: Try not to get into a hassle with this guy.
+
+### abundant /əˈbʌndənt/ (adj)
+
+Denfinition: existing in large quantities; more than enough
+
+Example: Fish are abundant in the lake.
