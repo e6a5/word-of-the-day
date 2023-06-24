@@ -410,12 +410,20 @@ Definition: a situation that is annoying because it involves doing something dif
 
 Example: It’s a hassle having to travel with so many bags.
 
-Definition: a situation in which people disagree, argue or annoy you
+Definition: a situation in which people disagree, argue, or annoy you
 
 Example: Try not to get into a hassle with this guy.
 
 ### abundant /əˈbʌndənt/ (adj)
 
-Denfinition: existing in large quantities; more than enough
+Definition: existing in large quantities; more than enough
 
 Example: Fish are abundant in the lake.
+
+
+### diversify /daɪˈvɜːrsɪfaɪ/ (verb)
+
+Definition: diversify (something) (into something) (especially of a business or company) to develop a wider range of products, interests, skills, etc. in order to be more successful or reduce risk
+
+Example: Farmers are being encouraged to diversify into new crops.
+
