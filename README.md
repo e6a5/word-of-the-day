@@ -427,3 +427,30 @@ Definition: diversify (something) (into something) (especially of a business or 
 
 Example: Farmers are being encouraged to diversify into new crops.
 
+### niche /niːʃ/ /nɪtʃ/ (noun)
+
+Definition: a comfortable or suitable role, job, way of life, etc.
+
+Example: He eventually found his niche in sports journalism
+
+### demonstrate /ˈdemənstreɪt/ (verb)
+
+Definition: to show something clearly by giving proof or evidence
+
+Example:  Let me demonstrate to you some of the difficulties we are facing.
+
+### nudge /nʌdʒ/ (verb)
+
+Definition:  nudge somebody/something to push somebody gently, especially with your elbow, in order to get their attention
+
+Example: He nudged me and whispered, ‘Look who's just come in.’
+
+### illusion /ɪˈluːʒn/ (noun)
+
+Definition: a false idea or belief, especially about somebody or about a situation
+
+Example: 
+- under the illusion that… She's under the illusion that (= believes wrongly that) she'll get the job.
+- I have no illusions about her feelings for me (= I know the truth is that she does not love me).
+- illusion about something The new president has no illusions about the difficulties facing her country (= she knows that the country has serious problems).
+
