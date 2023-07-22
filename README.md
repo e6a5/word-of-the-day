@@ -454,3 +454,10 @@ Example:
 - I have no illusions about her feelings for me (= I know the truth is that she does not love me).
 - illusion about something The new president has no illusions about the difficulties facing her country (= she knows that the country has serious problems).
 
+### pragmatic /præɡˈmætɪk/ (adj) 
+
+Definition: solving problems in a practical and sensible way rather than by having fixed ideas or theories
+
+Example: 
+
+- a pragmatic approach to management problems
