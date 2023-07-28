@@ -469,3 +469,9 @@ Definition: the ability to understand another person’s feelings, experience
 Example:
 
 - empathy (for somebody/something) empathy for other people’s situations
+
+### criticism /ˈkrɪtɪsɪzəm/ (noun)
+
+Definition: the act of expressing disapproval of somebody/something and opinions about their faults or bad qualities; a statement showing this disapproval
+
+Example: Ben is very sensitive—he just can't take criticism.
