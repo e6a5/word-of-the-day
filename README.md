@@ -475,3 +475,9 @@ Example:
 Definition: the act of expressing disapproval of somebody/something and opinions about their faults or bad qualities; a statement showing this disapproval
 
 Example: Ben is very sensitive—he just can't take criticism.
+
+### vital /ˈvaɪtl/ (adj)
+
+Definition: necessary or essential in order for something to succeed or exist
+
+Example: Good financial accounts are vital to the success of any enterprise.
