@@ -461,3 +461,11 @@ Definition: solving problems in a practical and sensible way rather than by havi
 Example: 
 
 - a pragmatic approach to management problems
+
+### empathy /ˈempəθi/ (noun)
+
+Definition: the ability to understand another person’s feelings, experience
+
+Example:
+
+- empathy (for somebody/something) empathy for other people’s situations
