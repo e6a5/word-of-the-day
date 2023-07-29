@@ -481,3 +481,9 @@ Example: Ben is very sensitive—he just can't take criticism.
 Definition: necessary or essential in order for something to succeed or exist
 
 Example: Good financial accounts are vital to the success of any enterprise.
+
+### spirit /ˈspɪrɪt/ (noun) 
+
+Definition: the part of a person that includes their mind, feelings and character rather than their body
+
+Example: Yoga is meant to unite the body, mind, and spirit.
