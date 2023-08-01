@@ -487,3 +487,9 @@ Example: Good financial accounts are vital to the success of any enterprise.
 Definition: the part of a person that includes their mind, feelings and character rather than their body
 
 Example: Yoga is meant to unite the body, mind, and spirit.
+
+### harm /hɑːrm/ (noun)
+
+Definition: ​damage or injury that is caused by a person or an event
+
+Example: He would never frighten anyone or cause them any harm.
